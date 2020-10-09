@@ -680,3 +680,4 @@ set colorcolumn=80
 
 au FileType gitcommit setlocal tw=72
 au FileType gitcommit setlocal cc=+1
+
